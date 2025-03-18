@@ -127,7 +127,7 @@ main {
     width: 18rem;
     height: 2.5rem;
     border-radius: 50px;
-    background: linear-gradient(to right, #fff, #777, #444);
+    background: linear-gradient(to right, #fff, #777, #333);
     background-size: 200%;
     animation: animationGradient 3s ease infinite;
     box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
