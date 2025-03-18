@@ -22,4 +22,4 @@ mobile devices**.
 
 ## **📷 Screenshots**  
 
-![Screenshot](./screenshot/img1.PNG) 
+![Screenshot](./screenshot/img1.png) 
